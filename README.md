@@ -1,6 +1,6 @@
 <h3 align="center">Hi there 👋</h3>
 
-<h3>About Me</h3>
+<h3>About Me:</h3>
 
     {
       "name" : "Haroon Chughtai",
@@ -12,7 +12,7 @@
       "goal" : "to create software that helps the world"
     }
 
-<h3>Github Stats</h3>
+<h3>Github Stats:</h3>
   
 ![Haroon's GitHub stats](https://github-readme-stats.vercel.app/api?username=hxroon&show_icons=true&theme=radical)
 
