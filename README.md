@@ -8,7 +8,7 @@
       "program" : "BBA & BCS double degree",
       "year" : "second year",
       "job-searching" : true,
-      "prev-experience" : ["Amazon", "Walmart", "The Numbers Group - CPA"],
+      "prev-experience" : ["Amazon", "Walmart", "The Numbers Group CPA"],
       "goal" : "to create software that helps the world"
     }
 
